@@ -57,13 +57,20 @@ Andrei</a></h1>
 </p>
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
- </p><div align="center" class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" target="_blank" href="https://www.linkedin.com/in/andrei-constantin-dina-54a232239/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/andreidina04">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1w0XChtIOutEnE_-GRg_4Cg6V54KSa1QI/view?usp=sharing">
-					<img src="https://img.icons8.com/plasticine/0.5x/resume.png"></a>
+  <a href="https://www.linkedin.com/in/andrei-constantin-dina-54a232239/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/andreidina04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://drive.google.com/file/d/1w0XChtIOutEnE_-GRg_4Cg6V54KSa1QI/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-PDF-E34F26?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume">
+  </a>
+  <a href="mailto:andreidina04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
       </div>
 <hr>
 <p></p>
