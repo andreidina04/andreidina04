@@ -10,7 +10,7 @@ Andrei</a></h1>
   </a>
 </p>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenptdzRsZWVvdjRiNHMwbmp0aHZoeGgxOWdhb3RxanB1NGRmZ25xbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/W8tizn4VT7bAqSJxkY/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3JvZnd4czlybG9rY3FxMjdsc2U0amk2MXZzNms1YXdsYXZmZmV5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 <ul>
 <li>
