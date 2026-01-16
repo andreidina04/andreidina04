@@ -1,7 +1,9 @@
   <h1 align="center">Hi 👋, I'm <a href="https://github.com/andreidina04" target="blank">
 Andrei</a></h1>
 <h3 align="center">A passionate Junior Software Developer from Romania</h3>
-<p align="left"> <img src="!![Profile Views](https://komarev.com/ghpvc/andreidina04)" alt="andreidina04"> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=andreidina04&label=Profile%20views&color=0e75b6&style=flat" alt="andreidina04">
+</p>
 <p align="left">
   <a href="https://github.com/andreidina04" target="blank">
     <img src="https://img.shields.io/github/followers/andreidina04?label=Follow&style=for-the-badge" alt="GitHub followers">
