@@ -58,18 +58,19 @@ Andrei</a></h1>
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/andrei-constantin-dina-54a232239/" target="_blank" style="margin: 5px;">
-    <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/andreidina04" target="_blank" style="margin: 5px;">
-    <img src="https://img.icons8.com/doodle/48/000000/github--v1.png" alt="GitHub"/>
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
   </a>
   <a href="https://drive.google.com/file/d/1w0XChtIOutEnE_-GRg_4Cg6V54KSa1QI/view?usp=sharing" target="_blank" style="margin: 5px;">
-    <img src="https://img.icons8.com/emoji/48/000000/page-facing-up.png" alt="Resume"/>
+    <img src="https://img.icons8.com/fluency/48/pdf.png" alt="Resume"/>
   </a>
   <a href="mailto:andreidina04@gmail.com" target="_blank" style="margin: 5px;">
-    <img src="https://img.icons8.com/doodle/48/000000/gmail.png" alt="Email"/>
+    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/>
   </a>
 </p>
+
 <hr>
 <p></p>
 <hr>
