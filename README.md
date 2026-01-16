@@ -1,6 +1,6 @@
   <h1 align="center">Hi 👋, I'm <a href="https://github.com/andreidina04" target="blank">
 Andrei</a></h1>
-<h3 align="center">A passionate Junior Software Developer from Romania</h3>
+<h3 align="center">Junior Software Developer | Computer Science Student</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=andreidina04&label=Profile%20views&color=0e75b6&style=flat" alt="andreidina04">
 </p>
