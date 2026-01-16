@@ -26,7 +26,7 @@ Andrei</a></h1>
   <p>🚀 I’m open to learning new technologies and expanding into <strong>automation & backend development</strong>.</p>
 </li>
 <li>
-  <p>💬 Ask me about <strong>Python, CustomTkinter, IT Support and GitHub projects</strong>.</p>
+  <p>💬 Ask me about <strong>Python, Data Analysis using Python, CustomTkinter, IT Support and GitHub projects</strong>.</p>
 </li>
 <li>
 <p>📫 How to reach me <strong><a href="mailto:andreidina04@gmail.com">andreidina04@gmail.com</a></strong></p>
