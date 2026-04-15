@@ -28,7 +28,7 @@ Andrei</a></h1>
   <p>💬 Ask me about <strong>Web Development, Python, Data Analysis using Python, CustomTkinter, IT Support and GitHub projects</strong>.</p>
 </li>
   <li>
-<p>🌐 Personal Website: <a href="[https://drive.google.com/file/d/1w0XChtIOutEnE_-GRg_4Cg6V54KSa1QI/view?usp=sharing](https://personal-website-rust-kappa-63.vercel.app/)" target="blank">Website</a></p>
+<p>🌐<a href="https://personal-website-rust-kappa-63.vercel.app/" target="blank">Personal Website</a></p>
 <li>
 <p>📫 How to reach me <strong><a href="mailto:andreidina04@gmail.com">andreidina04@gmail.com</a></strong></p>
 </li>
